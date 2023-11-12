@@ -1,0 +1,37 @@
+/*MAIN*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+      /*background: linear-gradient(45deg, #c2cece, #d2cbd6);*/
+      font-weight: 100;
+      color : white;
+  }
+/*NAVBAR*/
+
+
+/* AnimeDetails.css */
+
+  
+#PanelDetail {
+    margin: auto; 
+    margin-top: 50px; 
+    border-collapse: collapse; 
+    border-radius: 50px;  
+    border : 3px solid rgb(0, 0, 0);
+}
+
+.infoTable {
+    border : 2px solid rgb(23, 21, 21);
+    text-align: left;
+    padding: 8px;
+    background-color: rgba(250, 239, 239, 0.25);
+    color : black;
+    
+}
+
+#label {
+    text-decoration: underline;
+}
+
